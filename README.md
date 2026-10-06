@@ -14,3 +14,8 @@ npm run dev
 ```bash
 npm run build
 ```
+
+
+## Deployment
+
+Auto-deploy verification: 2026-10-06
