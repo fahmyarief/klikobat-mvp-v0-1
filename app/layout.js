@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"KlikObat.com by Farmabox",description:"MVP KlikObat.com"};export default function RootLayout({children}){return <html lang="id"><body>{children}</body></html>}
